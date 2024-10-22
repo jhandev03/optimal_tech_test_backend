@@ -1,0 +1,64 @@
+# Node.js dependencies
+/node_modules
+/npm-debug.log
+/yarn-error.log
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker
+docker-compose.override.yml
+docker-compose.override.*
+/docker-compose.prod.yml
+/docker-compose.prod.*
+/docker-compose.local.yml
+/docker-compose.local.*
+*.pid
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# PostgreSQL
+*.pgdata
+pgdata/
+*.pgpass
+pgpass
+.pgsql_history
+
+# Coverage directories
+coverage/
+*.lcov
+
+# Build directories
+/build
+/dist
+/tmp
+/out
+
+# Lock files
+package-lock.json
+yarn.lock
+
+# Misc
+*.log
+*.tmp
+*.bak
