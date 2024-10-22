@@ -15,15 +15,15 @@ Este es el backend del proyecto Optimal Tech, desarrollado utilizando Node.js y 
 
 Paso 1: Clonar el Repositorio
 
-git clone https://github.com/tu-usuario/optimal-tech-backend.git
+git clone https://github.com/jhandev03/optimal_tech_test_backend.git
 
-cd optimal-tech-backend
+cd optimal_tech_test_backend
 
 Paso 2: Instalar las Dependencias
 npm install
 
 Paso 3: Configurar Variables de Entorno
-Crea un archivo .env en la raíz del proyecto y define las siguientes variables:
+Crea un archivo .env en la raíz del proyecto segun como estan en el .env.template y define las siguientes variables:
 
 PORT=4000
 DATABASE_URL=postgresql://mydb_d71p_user:mU4u5tHPjKGKHqGjONALS8fSBXXbcecH@dpg-csbi033tq21c73a0pq60-a.oregon-postgres.render.com/mydb_d71p
