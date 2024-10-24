@@ -1,5 +1,5 @@
-🌐 Optimal Tech - Backend
-Este es el backend del proyecto Optimal Tech, desarrollado utilizando Node.js y Express. Se encarga de gestionar la persistencia de datos con PostgreSQL y ofrece una API RESTful para realizar operaciones CRUD sobre los items.
+🌐 Crud Check Items - Backend
+Este es el backend del proyecto para la prueba tecnica, desarrollado utilizando Node.js y Express. Se encarga de gestionar la persistencia de datos con PostgreSQL y ofrece una API RESTful para realizar operaciones CRUD sobre los items.
 
 📋 Características Principales
 
